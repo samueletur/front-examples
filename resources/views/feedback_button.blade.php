@@ -13,6 +13,7 @@
 </head>
 
 <body>
+    {{-- https://play.tailwindcss.com/OALEGZbSEE --}}
     <form class="absolute bottom-8 right-8 flex flex-col rounded-lg border bg-white dark:bg-zinc-800">
         <textarea placeholder="Feedback?" rows="3" minlength="3"
             class="peer h-12 w-64 resize-none border-0 bg-transparent p-2 text-sm transition-all duration-100 placeholder-shown:h-9 placeholder-shown:w-24 focus:h-12 focus:w-64 focus:outline-none dark:text-white"></textarea>

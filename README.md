@@ -5,3 +5,6 @@
 
 [Access A User’s Camera with Just HTML](https://github.com/samueletur/front-examples/blob/master/resources/views/html_camera.blade.php)  
 /html-camera/ is a simple example of how to access a user’s camera with just HTML.
+
+[Feedback Button](https://github.com/samueletur/front-examples/blob/master/resources/views/feedback_button.blade.php)  
+/feedback-button/ is a simple button with a feedback animation.
