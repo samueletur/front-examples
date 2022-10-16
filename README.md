@@ -8,3 +8,6 @@
 
 [Feedback Button](https://github.com/samueletur/front-examples/blob/master/resources/views/feedback_button.blade.php)  
 /feedback-button/ is a simple button with a feedback animation.
+
+[Flex Grid](https://github.com/samueletur/front-examples/blob/master/resources/views/flex_grid.blade.php)  
+
